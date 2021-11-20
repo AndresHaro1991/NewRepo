@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppPr1.MainPage">
+
+    <StackLayout>
+        
+        
+        <Label Text="Login" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"/>
+        <Image Source="descarga.jpg" HeightRequest="400" HorizontalOptions="Center" Aspect="Fill"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Text="Usuario: " Grid.Row="0" Grid.Column="0"/>
+                <Entry x:Name="txtUsuario" Placeholder="Ingrese usuario" Grid.Row="0" Grid.Column="1"/>
+                <Label Text="Contraseña: " Grid.Row="1" Grid.Column="0"/>
+                <Entry x:Name="txtContrasena" Placeholder="Ingrese contraseña" IsPassword="True" Grid.Row="1" Grid.Column="1"/>
+            </Grid>
+        <Button x:Name="btnIngresar" Text="Iniciar Sesion" Clicked="btnIngresar_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "785455803018",
+    "project_id": "xamarinauth-e2001",
+    "storage_bucket": "xamarinauth-e2001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785455803018:android:1224e6b31115d676369b73",
+        "android_client_info": {
+          "package_name": "com.gmaillogin.sampleapp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785455803018-4bbsp17kupkdb8eabta47m9kbc1jok9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmaillogin.sampleapp.android",
+            "certificate_hash": "a755097bb0081ffab3fa98a981bd8f03634c3eac"
+          }
+        },
+        {
+          "client_id": "785455803018-rrco87auq5v0tct4g8ud6tnm0hggh45n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTWYwipSUwhmW_WPy6CfTGKgabCDKsT08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785455803018-rrco87auq5v0tct4g8ud6tnm0hggh45n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
