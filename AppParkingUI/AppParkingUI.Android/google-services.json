@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832220053815",
+    "project_id": "xamarinauth-b63f7",
+    "storage_bucket": "xamarinauth-b63f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832220053815:android:204130e54ec83741d31ab2",
+        "android_client_info": {
+          "package_name": "com.companyname.appparkingui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832220053815-eps8l2riri5bv7t8ti3f0r6mhofvecfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.appparkingui",
+            "certificate_hash": "a755097bb0081ffab3fa98a981bd8f03634c3eac"
+          }
+        },
+        {
+          "client_id": "832220053815-44gmfa8jl2tc93t0k72o248a1b5e4uj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD9T_u5qmLwaeGPqiZ6RlrUfOW86AwkYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832220053815-44gmfa8jl2tc93t0k72o248a1b5e4uj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
